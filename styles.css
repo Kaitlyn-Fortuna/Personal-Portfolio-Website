@@ -243,6 +243,10 @@ header p {
     font-weight: 500;
 }
 
+.skill-tag:hover {
+    background-color: #e1f9f9; 
+}
+
 /* Contact Section */
 #contact {
     padding: 3rem 0;
